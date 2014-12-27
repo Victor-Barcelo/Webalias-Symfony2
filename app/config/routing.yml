@@ -1,0 +1,5 @@
+vbv_webalias:
+    resource: "@VbvWebaliasBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
